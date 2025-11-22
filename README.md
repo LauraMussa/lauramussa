@@ -12,8 +12,6 @@ Desarrolladora Fullstack apasionada por crear experiencias web intuitivas y efic
 ![](https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramussa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramussa&lay
 ---
 [![](https://visitcount.itsvg.in/api?id=lauramussa&icon=0&color=1)](https://visitcount.itsvg.in)
 
