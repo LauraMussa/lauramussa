@@ -13,7 +13,8 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 <div align="center">
   <h2>
- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/svg/1f527.svg" width="26"/> Tecnologías
+ <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Wrench.png?raw=true" width="26" alt="Wrench"/>
+ Tecnologías
     <h2/>
  
 </div>
