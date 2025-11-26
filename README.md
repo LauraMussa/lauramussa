@@ -1,5 +1,5 @@
 
-
+<div align="center">
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
 # ➤ Sobre mí
@@ -65,3 +65,4 @@ Desarrollo Frontend – Proyecto individual
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lauramussa94@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title='lauramussa94@gmail.com'>
 </a>
+</div>
