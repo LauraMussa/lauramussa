@@ -4,8 +4,7 @@
 
 <div align="center">
   <h2 >
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2728.png" width="26" alt="Sparkle"/>
-    <span>Sobre mí</span>   
+     🌟 Sobre mí  
   </h2>
 </div>
 
@@ -39,14 +38,16 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <h2 align="center">
-  <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Chart" width="26"/> Estadísticas 
+  ⚡ Estadísticas 
 </h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />  Proyectos Destacados
+<div align="center">
+<h2>🔥 Proyectos Destacados</h2>
+</div>
 
 ## 🔸DevCore
 
@@ -65,7 +66,7 @@ _Descripcion:_ Plataforma E-commerce con sistema de autenticación, carrito de c
 
 <div align="center">
   <h2>
- <img src="https://img.icons8.com/color/48/000000/folder-invoices.png" alt="Folder" width="26"/> Otros Proyectos   
+📄 Otros Proyectos   
   </h2>
  
 </div>
@@ -77,7 +78,7 @@ Desarrollo Frontend – Proyecto individual
 
 <div align="center">
 <h2>
-<img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Mail" width="26"/> Contacto  
+✉️ Contacto  
 </h2>  
 
 </div>
