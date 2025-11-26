@@ -1,8 +1,10 @@
 <div>
 
-<h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
+
 
 <div >
+  <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
+  <hr/>
   <h2 align="center">
      🌟 Sobre mí  
   </h2>
