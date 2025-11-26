@@ -60,7 +60,10 @@ Desarrollo Frontend – Proyecto individual
 
 # Contacto
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-mussa/)
+<a href="https://www.linkedin.com/in/laura-mussa">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title='www.linkedin.com/in/laura-mussa/'>
+</a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lauramussa94@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title='lauramussa94@gmail.com'>
 </a>
