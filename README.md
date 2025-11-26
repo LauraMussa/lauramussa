@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 >
- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbol/Sparkles.png?raw=true" width="26" alt="Sparkle"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/FluentEmojis/main/PNG/Symbol/Sparkles.png" width="26"/>
     Sobre mí   
   </h2>
 </div>
