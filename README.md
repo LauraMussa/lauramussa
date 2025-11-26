@@ -2,11 +2,11 @@
 <div align="center">
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
-# ✨ Sobre mí
+# <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/> Sobre mí
 
 Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, Next.js y Tailwind CSS**, enfocada en construir interfaces limpias, accesibles y responsivas. Comprometida con escribir código limpio y mantenible, mejorar la usabilidad y optimizar el rendimiento, siempre con atención al detalle y la experiencia del usuario. Apasionada por aprender nuevas tecnologías y colaborar en proyectos que impulsen la innovación.
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" /> Tecnologías
+# <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/svg/1f527.svg" width="26"/> Tecnologías
 
 ## Frontend
 
@@ -28,12 +28,12 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# ➤ Estadísticas
+# <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Chart" width="26"/> Estadísticas
 
 ![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true)<br/>
 
-# ➤ Proyectos Destacados
+# <img src="https://img.icons8.com/color/48/000000/folder-invoices.png" alt="Folder" width="26"/> Proyectos Destacados
 
 ## 🔸DevCore
 
@@ -50,14 +50,14 @@ Desarrollo Fullstack – Proyecto individual
 
 _Descripcion:_ Plataforma E-commerce con sistema de autenticación, carrito de compras y catálogo de productos. Desarrollada con Next.js, Express y Node.js.
 
-# Otros Proyectos
+# <img src="https://img.icons8.com/color/48/000000/document.png" alt="Document" width="26"/> Otros Proyectos
 
 ## 🔸WeatherApp
 
 Desarrollo Frontend – Proyecto individual
 - Repositorio: https://github.com/LauraMussa/WeatherApp
 
-# ➤ Contacto
+# <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Mail" width="26"/> Contacto
 
 <a href="https://www.linkedin.com/in/laura-mussa">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title='www.linkedin.com/in/laura-mussa/'>
