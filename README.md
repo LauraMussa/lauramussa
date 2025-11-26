@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
-<img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/> # Sobre mí
+# <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/> Sobre mí
 
 Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, Next.js y Tailwind CSS**, enfocada en construir interfaces limpias, accesibles y responsivas. Comprometida con escribir código limpio y mantenible, mejorar la usabilidad y optimizar el rendimiento, siempre con atención al detalle y la experiencia del usuario. Apasionada por aprender nuevas tecnologías y colaborar en proyectos que impulsen la innovación.
 
@@ -33,7 +33,7 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 ![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true)<br/>
 
-# <img src="https://img.icons8.com/color/48/000000/folder-invoices.png" alt="Folder" width="26"/> Proyectos Destacados
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />  Proyectos Destacados
 
 ## 🔸DevCore
 
