@@ -49,29 +49,29 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 <h3>🔸DevCore</h3>
 
 <p>Desarrollo Frontend – Proyecto en equipo</p>
-<p>- Repositorio: https://github.com/LauraMussa/DevCore</p>
-<p>- Deploy: https://devcore-front.vercel.app/</p>
-
-<p><i>_Descripcion:</i>Plataforma de aprendizaje online full-stack desarrollada con Next.js, Nest.js, PostgreSQL y autenticación JWT.</p> 
+<p>󠁯•󠁏 Repositorio: https://github.com/LauraMussa/DevCore</p>
+<p>󠁯•󠁏 Deploy: https://devcore-front.vercel.app/</p>
+<p><i>Descripcion:</i>Plataforma de aprendizaje online full-stack desarrollada con Next.js, Nest.js, PostgreSQL y autenticación JWT.</p> 
 
 <h3>🔸E-commerce</h3>
 
 <p>Desarrollo Fullstack – Proyecto individual</p> 
-<p>- Repositorio: https://github.com/LauraMussa/E-commerce</p>
-<p><i>_Descripcion:</i> Plataforma E-commerce con sistema de autenticación, carrito de compras y catálogo de productos. Desarrollada con Next.js, Express y Node.js.</p>
+<p>󠁯•󠁏 Repositorio: https://github.com/LauraMussa/E-commerce</p>
+<p><i>Descripcion:</i> Plataforma E-commerce con sistema de autenticación, carrito de compras y catálogo de productos. Desarrollada con Next.js, Express y Node.js.</p>
 
 </div>
-<div align="center">
-  <h2>
+
+<div >
+  <h2 align="center">
 📄 Otros Proyectos   
   </h2>
- 
+ <h3>🔸WeatherApp</h3>
+
+<p>Desarrollo Frontend – Proyecto individual</p>
+<p>•󠁏 Repositorio: https://github.com/LauraMussa/WeatherApp</p>
+
 </div>
 
-<h3>🔸WeatherApp</h3>
-
-Desarrollo Frontend – Proyecto individual
-- Repositorio: https://github.com/LauraMussa/WeatherApp
 
 <div align="center">
 <h2>
