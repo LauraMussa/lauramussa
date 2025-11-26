@@ -2,15 +2,16 @@
 
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
-<div align="center">
-  <h2 >
+<div >
+  <h2 align="center">
      🌟 Sobre mí  
   </h2>
-</div>
-<hr/>
-<p>
+  <p>
 Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, Next.js y Tailwind CSS**, enfocada en construir interfaces limpias, accesibles y responsivas. Comprometida con escribir código limpio y mantenible, mejorar la usabilidad y optimizar el rendimiento, siempre con atención al detalle y la experiencia del usuario. Apasionada por aprender nuevas tecnologías y colaborar en proyectos que impulsen la innovación.  
 </p>
+</div>
+<hr/>
+
 <div align="center">
   <h2>
     🔧 Tecnologías
