@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2 >
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/FluentEmojis/main/PNG/Symbol/Sparkles.png" width="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2728.png" width="26" alt="Sparkle"/>
     Sobre mí   
   </h2>
 </div>
