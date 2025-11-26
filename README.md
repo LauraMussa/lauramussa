@@ -36,8 +36,6 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 </div>
 
-
-
 <h2 align="center">
   ⚡ Estadísticas 
 </h2>
@@ -46,25 +44,23 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
   <img src="https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-<h2>🔥 Proyectos Destacados</h2>
+<div >
+<h2 align="center">🔥 Proyectos Destacados</h2>
+<h3>🔸DevCore</h3>
+
+<p>Desarrollo Frontend – Proyecto en equipo</p>
+<p>- Repositorio: https://github.com/LauraMussa/DevCore</p>
+<p>- Deploy: https://devcore-front.vercel.app/</p>
+
+<p><i>_Descripcion:</i>Plataforma de aprendizaje online full-stack desarrollada con Next.js, Nest.js, PostgreSQL y autenticación JWT.</p> 
+
+<h3>🔸E-commerce</h3>
+
+<p>Desarrollo Fullstack – Proyecto individual</p> 
+<p>- Repositorio: https://github.com/LauraMussa/E-commerce</p>
+<p><i>_Descripcion:</i> Plataforma E-commerce con sistema de autenticación, carrito de compras y catálogo de productos. Desarrollada con Next.js, Express y Node.js.</p>
+
 </div>
-
-## 🔸DevCore
-
-Desarrollo Frontend – Proyecto en equipo
-- Repositorio: https://github.com/LauraMussa/DevCore
-- Deploy: https://devcore-front.vercel.app/
-
-_Descripcion:_ Plataforma de aprendizaje online full-stack desarrollada con Next.js, Nest.js, PostgreSQL y autenticación JWT.
-
-## 🔸E-commerce
-
-Desarrollo Fullstack – Proyecto individual
-- Repositorio: https://github.com/LauraMussa/E-commerce
-
-_Descripcion:_ Plataforma E-commerce con sistema de autenticación, carrito de compras y catálogo de productos. Desarrollada con Next.js, Express y Node.js.
-
 <div align="center">
   <h2>
 📄 Otros Proyectos   
@@ -72,7 +68,7 @@ _Descripcion:_ Plataforma E-commerce con sistema de autenticación, carrito de c
  
 </div>
 
-## 🔸WeatherApp
+<h3>🔸WeatherApp</h3>
 
 Desarrollo Frontend – Proyecto individual
 - Repositorio: https://github.com/LauraMussa/WeatherApp
