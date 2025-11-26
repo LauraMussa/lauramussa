@@ -3,7 +3,7 @@
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
 <div align="center">
-  <h2>
+  <h2 width="28">
  <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="28"/> Sobre mí   
   </h2>
 </div>
