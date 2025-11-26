@@ -63,7 +63,7 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 <div >
   <h2 align="center">
-📄 Otros Proyectos   
+📁 Otros Proyectos   
   </h2>
  <h3>🔸WeatherApp</h3>
 
