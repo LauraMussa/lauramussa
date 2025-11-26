@@ -5,7 +5,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Sobre mí
 Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, Next.js y Tailwind CSS**, enfocada en construir interfaces limpias, accesibles y responsivas. Comprometida con escribir código limpio y mantenible, mejorar la usabilidad y optimizar el rendimiento, siempre con atención al detalle y la experiencia del usuario. Apasionada por aprender nuevas tecnologías y colaborar en proyectos que impulsen la innovación.
 
-# ➤ Tecnologías
+# <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="25"> Tecnologías
 
 ## Frontend
 
