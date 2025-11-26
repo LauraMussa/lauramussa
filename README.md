@@ -2,8 +2,7 @@
 <div align="center">
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
-# <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/>
- Sobre mí
+<img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/> # Sobre mí
 
 Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, Next.js y Tailwind CSS**, enfocada en construir interfaces limpias, accesibles y responsivas. Comprometida con escribir código limpio y mantenible, mejorar la usabilidad y optimizar el rendimiento, siempre con atención al detalle y la experiencia del usuario. Apasionada por aprender nuevas tecnologías y colaborar en proyectos que impulsen la innovación.
 
