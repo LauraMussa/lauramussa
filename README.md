@@ -37,10 +37,6 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 ![](https://streak-stats.demolab.com/?user=lauramussa)
 
 
-<div class="cm-line" dir="auto"><span class="ͼh ͼe">![</span><span class="ͼh ͼe">]</span><span class="ͼh ͼe">(</span><span class="ͼh ͼ9">https://github-readme-stats.vercel.app/api?username=lauramussa&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false</span><span class="ͼh ͼe">)</span></div>
-<div class="cm-line" dir="auto"><span class="ͼh ͼe">![</span><span class="ͼh ͼe">]</span><span class="ͼh ͼe">(</span><span class="ͼh ͼ9">https://nirzak-streak-stats.vercel.app/?user=lauramussa&amp;theme=dark&amp;hide_border=false</span><span class="ͼh ͼe">)</span></div>
-
-
 # Contacto
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-mussa/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauramussa94@gmail.com) 
