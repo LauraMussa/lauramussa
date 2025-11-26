@@ -13,7 +13,7 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 <div align="center">
   <h2>
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f527.png" width="26" alt="Wrench"/> Tecnologías&nbsp;
+    🔧 Tecnologías
   </h2>
 </div>
 
