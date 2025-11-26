@@ -32,9 +32,9 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 # Estadísticas
 
-![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramussa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true)
+
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0997ed547fb079d0f20757968f87807378f7cfec42bf1ab6985e023b555793b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d65696768742e76657263656c2e6170703f757365723d446965676f4d61727a696f6e69267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/0997ed547fb079d0f20757968f87807378f7cfec42bf1ab6985e023b555793b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d65696768742e76657263656c2e6170703f757365723d446965676f4d61727a696f6e69267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="GitHub streak" data-canonical-src="https://github-readme-streak-stats-eight.vercel.app?user=LauraMussa&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;"></a></p>
