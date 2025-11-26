@@ -5,7 +5,7 @@
 <div align="center">
   <h2 >
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/2728.png" width="26" alt="Sparkle"/>
-    Sobre mí   
+    <span>Sobre mí</span>   
   </h2>
 </div>
 
