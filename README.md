@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
- <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="26"/> Sobre mí   
+ <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="28"/> Sobre mí   
   </h2>
 </div>
 
