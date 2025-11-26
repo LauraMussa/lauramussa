@@ -3,8 +3,9 @@
 <h1 align="center" class="heading-element" dir="auto"> Desarrolladora Fullstack | Frontend </h1>
 
 <div align="center">
-  <h2 width="28">
- <img src="https://img.icons8.com/color/48/000000/sparkle.png" alt="Sparkle" width="28"/> Sobre mí   
+  <h2 >
+ <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbol/Sparkles.png?raw=true" width="26" alt="Sparkle"/>
+    Sobre mí   
   </h2>
 </div>
 
