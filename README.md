@@ -37,15 +37,16 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<div align="center">
-  <h2>
-    <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Chart" width="26"/> Estadísticas 
-  </h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=lauramussa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/000000/combo-chart.png" alt="Chart" width="26"/> Estadísticas 
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 <div align="center">
 <h2>
