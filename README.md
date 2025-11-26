@@ -32,13 +32,9 @@ Desarrolladora Fullstack especializada en **Frontend** con dominio en **React, N
 
 # Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="max-width: 100%;">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=lauramussa&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
-</p>
+![](https://streak-stats.demolab.com/?user=lauramussa&theme=tokyonight&hide_border=true)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=lauramussa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
